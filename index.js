@@ -24,6 +24,7 @@ module.exports = {
   DateRangePicker: DateRangePicker,
   SingleDatePicker: SingleDatePicker,
 
+  DateRangePickerInputWithHandlers: DateRangePickerInputWithHandlers,
   DateRangePickerInput: DateRangePickerInput,
   SingleDatePickerInput: SingleDatePickerInput,
   DayPicker: DayPicker,
